@@ -106,7 +106,6 @@ section {
 .gallery-item {
     display: inline-block;
     width: 480px;
-    height: 480px;
     margin: 1em;
 }
 
